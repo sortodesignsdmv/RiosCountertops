@@ -6,3 +6,5 @@ Service images are illustrative stock imagery, not RIOS project photos.
 - Bathroom image delivery: https://images.unsplash.com/photo-1620626011761-996317b8d101
 
 Actual installation photos are still required to populate the project gallery.
+
+Services page: four illustrative countertop images copied from the user-provided original public site; they were labeled as placeholder images there. Stored in public/images. Contractor planning photo: https://images.unsplash.com/photo-1503387762-592deb58ef4e.
